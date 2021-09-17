@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Rick',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'Bom dia,',
+  greetingAfternoon: 'Boa tarde,',
+  greetingEvening: 'Boa  noite,',
+  greetingNight: 'Vai dormir! Calma, vocẽ tem insônia '-'',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com',
     },
   ],
 
@@ -93,7 +93,7 @@ const CONFIG = {
       },
       {
         name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=Rb0UmrCXxVA',
       },
       {
         name: 'Oldies',
