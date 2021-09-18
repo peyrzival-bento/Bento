@@ -93,7 +93,7 @@ const CONFIG = {
       },
       {
         name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=Rb0UmrCXxVA',
+        link: 'https://youtu.be/Rb0UmrCXxVA',
       },
       {
         name: 'Oldies',
@@ -101,7 +101,7 @@ const CONFIG = {
       },
       {
         name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://youtu.be/YvrGRpSpnX8',
       },
     ],
     secondList: [
